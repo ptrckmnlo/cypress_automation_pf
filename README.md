@@ -4,7 +4,7 @@ Details:
 1. Login Test
 - check login, logout and error validations.
 
-2.Cart Test
+2. Cart Test
 - use of filter, add to cart, remove to cart, checkout order and error validations.
 
 3. Footer Test
